@@ -1,4 +1,4 @@
-# AWS Infrastructure Documentation: Udagram App (Instagram Clone)
+# AWS Infrastructure Documentation
 
 **Trainee Name: Yasser Ahmed**  
 **Group: 6 May 2025**  
@@ -10,6 +10,7 @@
 3. [Network Infrastructure](#network-infrastructure)
 4. [Networking Components](#networking-components)
 5. [Data Flow](#data-flow)
+6. [High Availability Features](#high-availability-features)
 
 ## 1- Overview
 This document describes the AWS infrastructure design for Udagram, an Instagram clone application. The architecture follows AWS best practices for high availability, scalability, and security.
